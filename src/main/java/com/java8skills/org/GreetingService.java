@@ -14,7 +14,7 @@ public interface GreetingService {
 	};
 
 	/**
-	 * Helper method to call greetservice.
+	 * Helper method to call greetService.
 	 * 
 	 * @param message
 	 *            This is the message provided by user.

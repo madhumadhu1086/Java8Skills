@@ -16,7 +16,7 @@ public interface Calculation {
 	 *            First integer parameter
 	 * @param b
 	 *            Second integer parameter.
-	 * @return
+	 * @return value of the calculated operation.
 	 */
 	int operation(int a, int b);
 
